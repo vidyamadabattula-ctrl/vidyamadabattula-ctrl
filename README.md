@@ -40,7 +40,7 @@ Arduino · Sensors · Servo Motors · Fusion 360
 
 ### Problem Solving
 
-**LeetCode — 117+ Problems Solved**
+**LeetCode — 150+ Problems Solved**
 106 Easy · 11 Medium
 
 Currently focused on improving algorithmic problem-solving and strengthening core DSA concepts.
